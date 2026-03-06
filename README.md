@@ -1,6 +1,6 @@
 # 💡 Java Design Patterns
 
-Este repositório contém **exemplos resolvidos** de quatro dos principais **Padrões de Projeto de Software**, todos implementados em Java 🧩. Os desafios foram baseados em diferentes problemas reais simulados para facilitar o aprendizado e aplicação prática de cada padrão.
+Este repositório contém **exemplos resolvidos** de oito dos principais **Padrões de Projeto de Software**, todos implementados em Java 🧩. Os desafios foram baseados em diferentes problemas reais simulados para facilitar o aprendizado e aplicação prática de cada padrão.
 
 ---
 
